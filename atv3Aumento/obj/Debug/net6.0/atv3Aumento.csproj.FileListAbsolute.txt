@@ -1,0 +1,15 @@
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\atv3Aumento\atv3Aumento\obj\Debug\net6.0\atv3Aumento.csproj.AssemblyReference.cache
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\atv3Aumento\atv3Aumento\obj\Debug\net6.0\atv3Aumento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\atv3Aumento\atv3Aumento\obj\Debug\net6.0\atv3Aumento.AssemblyInfoInputs.cache
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\atv3Aumento\atv3Aumento\obj\Debug\net6.0\atv3Aumento.AssemblyInfo.cs
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\atv3Aumento\atv3Aumento\obj\Debug\net6.0\atv3Aumento.csproj.CoreCompileInputs.cache
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\atv3Aumento\atv3Aumento\bin\Debug\net6.0\atv3Aumento.exe
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\atv3Aumento\atv3Aumento\bin\Debug\net6.0\atv3Aumento.deps.json
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\atv3Aumento\atv3Aumento\bin\Debug\net6.0\atv3Aumento.runtimeconfig.json
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\atv3Aumento\atv3Aumento\bin\Debug\net6.0\atv3Aumento.dll
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\atv3Aumento\atv3Aumento\bin\Debug\net6.0\atv3Aumento.pdb
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\atv3Aumento\atv3Aumento\obj\Debug\net6.0\atv3Aumento.dll
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\atv3Aumento\atv3Aumento\obj\Debug\net6.0\refint\atv3Aumento.dll
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\atv3Aumento\atv3Aumento\obj\Debug\net6.0\atv3Aumento.pdb
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\atv3Aumento\atv3Aumento\obj\Debug\net6.0\atv3Aumento.genruntimeconfig.cache
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\atv3Aumento\atv3Aumento\obj\Debug\net6.0\ref\atv3Aumento.dll
